@@ -1,6 +1,16 @@
 # -
 代码审计
 
+```
+go install github.com/tomnomnom/gf@latest
+
+echo 'source /root/go/pkg/mod/github.com/tomnomnom/gf@v0.0.0-20200618134122-dcd4c361f9f5/gf-completion.bash' >> ~/.bashrc
+
+source ~/.bashrc
+
+cp -r /root/go/pkg/mod/github.com/tomnomnom/gf@v0.0.0-20200618134122-dcd4c361f9f5/examples ~/.gf
+```
+
 代码审计用于漏洞赏金
 ```
 https://ian.sh/redash
