@@ -20,3 +20,9 @@ https://ian.sh/redash
 ```
 https://jorgectf.github.io/blog/post/practical-codeql-introduction/
 ```
+
+
+### CODEQL
+```
+https://dozer.nz/posts/debugging-intellij
+```
