@@ -22,7 +22,7 @@ https://jorgectf.github.io/blog/post/practical-codeql-introduction/
 ```
 
 
-### CODEQL
+### intellij
 ```
 https://dozer.nz/posts/debugging-intellij
 ```
