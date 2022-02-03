@@ -26,3 +26,8 @@ https://jorgectf.github.io/blog/post/practical-codeql-introduction/
 ```
 https://dozer.nz/posts/debugging-intellij
 ```
+
+### 动态方法
+```
+https://www.synacktiv.com/en/publications/captain-hook-how-not-to-look-for-vulnerabilities-in-java-applications.html
+```
