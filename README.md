@@ -1,5 +1,10 @@
 # -
 
+速成课程
+···
+https://www.youtube.com/watch?v=f6UOBCJ9pjw
+···
+
 垃圾靶场
 ```
 https://github.com/Yavuzlar/VulnLab
